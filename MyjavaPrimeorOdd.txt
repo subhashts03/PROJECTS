@@ -12,7 +12,7 @@ class GFG {
 	public static void main(String[] args)
 	{
 		// Declaring and initializing integer variable
-		int num = 100;
+		int num = 2000;
 
 		// Checking if number is even or odd number
 		// via remainder
